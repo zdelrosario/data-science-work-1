@@ -90,7 +90,7 @@ df_titanic %>% summarize(total = sum(n))
         cross the English channel.
 
 ![The Titanic’s voyage fateful journey from Europe to(wards) the
-US.](images\\c01-titanic\\Titanic_voyage_map.png)
+US.](images/c01-titanic/Titanic_voyage_map.png)
 
 **q3** Create a plot showing the count of passengers who *did* survive,
 along with aesthetics for `Class` and `Sex`. Document your observations
